@@ -1,0 +1,20 @@
+.btn{
+    height:100px; 
+    width: 12%;  
+    border: #000000 solid 1px;
+    background-color: #ffffff;
+    margin: -2.5px;
+}
+.container{
+    width: 25%;
+    background-color: #4072b3;
+    position: relative;
+    left:37.5%;
+    border: #4072b3 solid 1px;
+}
+h1{
+    margin-left: 30%;
+}
+.container div{
+    margin-left: 16%;
+}
